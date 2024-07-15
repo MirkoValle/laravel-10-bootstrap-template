@@ -4,7 +4,7 @@
 </p>
 
 # Template for a Laravel 10.0 + SCSS
-Template to generate a new standard and simple project using Laravel 10.x, Bootstrap 5.x and SCSS (SASS with SCSS Syntax).
+Template to generate a new standard and simple project using Laravel 10.x and SCSS (SASS with SCSS Syntax).
 
 ## Steps to use this project correctly:
 - Open this repository and click on  `Use this template ---> Create a new repository`
